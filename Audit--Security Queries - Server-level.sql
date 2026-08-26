@@ -13,7 +13,7 @@
  *     (4) Use any common text file comparison/merge application (e.g. WinMerge, Beyond Compare)
  * Note that many result sets have columns commented out to make comparison easier. These columns (mostly dates) will always be different and generally aren't that useful.
  */
-
+--repository test update from VS code
 
 -- Runtime context
 PRINT 'Executed by ' + quotename(suser_sname()) + ' on server ' + quotename(@@servername) + ' at ' + convert(varchar(50), getdate(), 120) + '.' + (char(13) + char(10)) + (char(13) + char(10))
