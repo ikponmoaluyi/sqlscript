@@ -1,4 +1,4 @@
-Server -- Physical Server or a Virtual Machine?
+Server -- Physical Server or a Virtual Machine.sql
 Simple T-SQL Script to know whether your SQL Server is running on a Physical box or a VM. 
 Note: This Script works only on 2008R2 SP1 and above.
 
